@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Hi, I'm Dean"
-subtitle: R-Shiny Expert / Open-Source Developer / Tireless Traveller
+title: "Hi, I'm Wladimir"
+subtitle: AI Lover / Open-Source Developer / Tireless Improver
 css: "/assets/css/index.css"
-share-img: /assets/img/deanimg.jpeg
+share-img: /assets/img/profile-picture.jpeg
 share-title: "Dean Attali - R-Shiny consultant | Tutorials"
 share-description: "List of all the tutorials provided by Dean Attali."
 support_promo_box: true
