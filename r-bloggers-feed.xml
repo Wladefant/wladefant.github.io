@@ -5,10 +5,10 @@ layout: null
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     {% if site.title %}
-    <title>{{ "Dean Attali's R Blog" | xml_escape }}</title>
+    <title>{{ "Wladimir Kirjanovs  Blog" | xml_escape }}</title>
     {% endif %}
     {% if site.rss-description %}
-    <description>{{ "R-Shiny developer and consultant with a MSc in Bioinformatics and a Bachelor of Computer Science. Previously a software engineer at Google, IBM, and Wish.com." | xml_escape }}</description>
+    <description>{{ "Student at the Technical University of Munich" | xml_escape }}</description>
     {% endif %}
     <link>{{ '' | absolute_url }}</link>
     <atom:link href="{{ 'feed.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
