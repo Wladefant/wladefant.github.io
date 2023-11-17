@@ -4,21 +4,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ site.title }}</title>
-    <link rel="stylesheet" href="/assets/css/main.css">
-    <script src="/assets/js/main.js"></script>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+    <script src="{{ site.baseurl }}/assets/js/main.js"></script>
 </head>
 <body>
     <header>
         <h1>{{ site.title }}</h1>
         <nav>
             <ul>
-                <li><a href="/">Home</a></li>
+                <li><a href="{{ site.baseurl }}/index.html">Home</a></li>
                 <!-- Add more navigation items here -->
             </ul>
         </nav>
     </header>
     <main>
-        {{ content }}
+        <h2>Topics</h2>
+        <ul>
+            {% for category in site.categories %}
+            <li><a href="{{ site.baseurl }}/category/{{ category | first }}">{{ category | first }}</a></li>
+            {% endfor %}
+        </ul>
+        <h2>Blog Posts</h2>
+        {% for post in site.posts %}
+        <article>
+            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+            <p>{{ post.excerpt }}</p>
+        </article>
+        {% endfor %}
     </main>
     <footer>
         <p>&copy; {{ site.time | date: '%Y' }} {{ site.author }}</p>

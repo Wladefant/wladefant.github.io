@@ -1,6 +1,6 @@
 title: Wladefant's Blog
 description: A simple markdown based blog
-baseurl: "" 
+baseurl: "/blog" 
 url: "https://wladefant.github.io" 
 github_username:  wladefant
 

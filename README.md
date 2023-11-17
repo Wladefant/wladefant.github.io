@@ -21,13 +21,7 @@ You need to have the following installed on your machine:
 git clone https://github.com/wladefant/wladefant.github.io.git
 ```
 
-2. Navigate to the project directory:
-
-```bash
-cd wladefant.github.io
-```
-
-3. Open the project in your text editor and start adding your articles in the `_posts` directory. Remember to follow the structure where each topic has its own folder and each article is a markdown file within the topic's folder.
+2. Open the project in your text editor and start adding your articles in the `_posts` directory. Remember to follow the structure where each topic has its own folder and each article is a markdown file within the topic's folder.
 
 ## Usage
 
