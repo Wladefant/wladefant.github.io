@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Hi, I'm Dean"
-subtitle: R-Shiny Expert / Open-Source Developer / Tireless Traveller
+title: "Hi, I'm Wladimir"
+subtitle: AI Enthusiast / Open-Source Developer / Tireless Learner
 css: "/assets/css/index.css"
 share-img: /assets/img/profile-picture.jpeg
-share-title: "Dean Attali - R-Shiny consultant | Popular posts"
-share-description: "List of all the most popular posts by Dean Attali."
+share-title: "Wladimir Kirjanovs | Popular posts"
+share-description: "List of all the most popular posts by Wladimir Kirjanovs."
 support_promo_box: true
 cover-img:
   - "/assets/img/big-imgs/costa-rica-house.jpeg" : "Montezuma, Costa Rica (2011)"
