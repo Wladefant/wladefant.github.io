@@ -6,7 +6,7 @@ share-img: /assets/img/blog/digital-ocean/rstudio.png
 share-description: "Learn how to create a server that can be used to run R code or Shiny apps in just 30 minutes."
 permalink: /2015/05/09/setup-rstudio-shiny-server-digital-ocean/
 last-updated: 2020-12-19
-carbonads-sm-horizontal: true
+# carbonads-sm-horizontal: true
 ---
 
 {: .box-note}

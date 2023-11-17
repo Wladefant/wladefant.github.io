@@ -67,7 +67,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      carbonads: true
+      # carbonads: true
       comments: true
       social-share: true
       show-share: true
@@ -79,7 +79,7 @@ defaults:
       path: "notblog"
     values:
       layout: "post"
-      carbonads: true
+      # carbonads: true
       comments: true
       social-share: true
       show-share: true
@@ -97,7 +97,8 @@ defaults:
       path: ""
     values:
       layout: "page"
-      before-content: [support_promo_box.html, carbonads.html]
+      # original: before-content: [support_promo_box.html, carbonads.html]
+      before-content: [support_promo_box.html]
       footer-extra: footer-subscribe.html
 
 exclude:

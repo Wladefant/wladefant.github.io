@@ -398,8 +398,9 @@ body.scroll-box-on #scroll-box {
     font-size: 0.875rem;
   }
 }
-
-/* Carbon ads */
+/* 
+Good for future ads.
+ Carbon ads
 div[role=main],
 article[role=main] {
   position: relative;
@@ -493,7 +494,8 @@ article[role=main] {
     bottom: 0;
   }
 }
-
+ */
+ 
 /* Support button in navbar */
 .navbar-custom .navbar-nav li a[href*="github.com/sponsors"],
 .author-site a {

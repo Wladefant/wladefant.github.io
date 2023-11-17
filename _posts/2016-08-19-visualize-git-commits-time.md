@@ -5,7 +5,7 @@ tags: [rstats, shiny]
 date: 2016-08-19 11:00:00 -0700
 share-img: https://daattali.com/shiny/visualize-git-commits-time/dean-git-plot.png
 permalink: /blog/visualize-git-commits-time/
-carbonads-sm-horizontal: true
+# carbonads-sm-horizontal: true
 ---
 
 <div style="text-align:center;">
