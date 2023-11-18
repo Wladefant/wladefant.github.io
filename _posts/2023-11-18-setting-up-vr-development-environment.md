@@ -7,4 +7,3 @@ This is a general guide to set up a development environment in unreal engine 5
 ![downlaod software meta quest 2](/assets/img/blog/2023-11-18-setting-up-vr-development-environment/quest2software.png)
 - go through the setup process with the default settings
 ![quest2softwareinstallation](/assets/img/blog/2023-11-18-setting-up-vr-development-environment/quest2softwareinstallation.png)
-![Alt text](image-3.png)
