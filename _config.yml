@@ -27,10 +27,6 @@ social-network-links:
   youtube: "@wladefant"
   telephone: +491797509029
 
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
 
 excerpt_length: 50
 feed_show_excerpt: false
