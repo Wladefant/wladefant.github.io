@@ -9,10 +9,10 @@ author: Wladimir Kirjanovs
 
 
 navbar-links:
-  Blog: "/"
+  Blog: "blog"
   # Hire me: "https://attalitech.com/"
   Projects: "projects"
-  About Me / Contact: "aboutme"
+  About Me / Contact: "/"
   ❤ Support: "https://github.com/sponsors/wladefant"
 
 avatar: "/assets/img/profile-picture.jpeg"
