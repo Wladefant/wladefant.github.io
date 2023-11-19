@@ -1,7 +1,7 @@
 ---
 title: "Set Up Quest 2"
 subtitle: "Learn How to set up the meta quest 2"
-thumbnail-img: "assets/img/blog/2021-12-11-how-to-install-incompatible-apps/95297194e329402b80a42a8406f6d0d4.png"
+thumbnail-img: "assets/img/blog/2023-11-18-setting-up-vr-development-environment/quest2software.png"
 tags: [samsung notes, microsoft store, tutorial]
 permalink: /blog/set-up-quest2/
 date: 2023-11-18 19:00:00 -0500
