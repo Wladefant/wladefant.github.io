@@ -18,15 +18,14 @@ navbar-links:
 avatar: "/assets/img/profile-picture.jpeg"
 
 social-network-links:
-  email: "wladefant@gmail.com"
-  facebook: wladefant
   github: wladefant
   twitter: wladefant
-  # linkedin: "pub/dean-attali/8/946/143"
-  stackoverflow: "users/19319169/wladefant"
-  # calendly: "attalitech/meeting"
+  email: "wladefant@gmail.com"
+  facebook: wladefant
+  linkedin: wladefant
+  stackoverflow: "19319169/wladefant"
   youtube: "@wladefant"
-  # patreon: DeanAttali
+  telephone: +491797509029
 
 share-links-active:
   twitter: true
