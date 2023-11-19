@@ -1,8 +1,6 @@
 ---
 title: "Set Up VR Dev Environment in UE5"
 subtitle: "Learn How to set up a VR Development Environment in Unreal Engine 5"
-thumbnail-img: "assets/img/blog/2021-12-11-how-to-install-incompatible-apps/95297194e329402b80a42a8406f6d0d4.png"
-tags: [samsung notes, microsoft store, tutorial]
 permalink: /blog/vr-in-ue5/
 date: 2023-11-18 19:00:00 -0500
 ---

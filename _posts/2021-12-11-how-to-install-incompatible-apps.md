@@ -1,7 +1,7 @@
 ---
 title: "Incompatible Apps from Microsoft Store"
 subtitle: "Learn How to install incompatible apps from Microsoft Store on Windows"
-
+thumbnail-img: "assets/img/blog/2021-12-11-how-to-install-incompatible-apps/95297194e329402b80a42a8406f6d0d4.png"
 tags: [samsung notes, microsoft store, tutorial]
 permalink: /blog/install-incompatible-apps-windows/
 date: 2021-12-11 12:00:00 -0500
