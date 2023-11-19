@@ -1,7 +1,6 @@
 ---
 title: "Install Github Copilot CLI"
 subtitle: "Learn How to set up github copilot CLI"
-
 permalink: /blog/gh-cli/
 date: 2023-11-19 14:00:00 -0500
 ---
