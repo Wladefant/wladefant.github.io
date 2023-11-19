@@ -31,12 +31,24 @@ social-network-links:
 excerpt_length: 50
 feed_show_excerpt: false
 feed_show_tags: false
+post_search: true
 
-keywords: "wladefant, wladimir, kirjanovs, wladimir kirjanovs"
 
-link-col: "#404040"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
 
-mobile-theme-col: "#0085A1"
+#navbar-img: "/assets/img/bgimage.png"
+#footer-img: "/assets/img/bgimage.png"
+#page-img: "/assets/img/bgimage.png"
 
 site-css: "/assets/css/custom-styles.css"
 site-js: "/assets/js/custom-script.js"
