@@ -11,4 +11,6 @@ In 2023 there are many headsets too consider, but if you havent decided yet, I w
 
 This is a general guide to set up a development environment in unreal engine 5
 
-To set up your quest 2 read this article first before going into this article.
+To set up your quest 2 read [this](_posts/2023-11-18-set-up-quest2.md) article first before going into this article.
+
+To install and test apps from ue5 comfortably you will need to install steamvr. First install steam and install steamvr like a game. If you want to test out vr in ue5 always open steamvr first and leave it open.
